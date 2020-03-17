@@ -1,0 +1,2 @@
+# BD_INST
+BD_BSBO-06-18 QT + MySql
